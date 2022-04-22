@@ -208,7 +208,7 @@ background-size: contain
 ---
 class: inverse, left, top
 ### Compile the Raw Data (Not Real Data)
-```{r,echo=F}
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(kableExtra,quietly = T)
 library(tidyverse,quietly = T)
 library(magrittr,quietly = T)
