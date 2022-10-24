@@ -1,0 +1,56 @@
+---
+class: center, middle
+background-image: url(images/roadmap.jpg)
+background-size: contain
+### Thinking deeply about what interventions the institution can control
+
+### Predictive Models to efficiently allocate resources
+
+### Data-informed policy briefs and recommendations
+
+### Creating measurement and assessment plans to evaluate success
+---
+class: center, top
+### We Need Your Help
+
+--
+#### The public and non-profit sectors need descriptive, predictive, and presriptive analytics to advance prosocial outcomes
+
+--
+#### These sectors aren't as far along as the private sector. This provides lots of room for innovation!
+
+--
+#### Find a business problem you care about. For me, that's helping colleges and universities, but there are endless ways to make a difference.
+---
+class: center, middle,inverse
+background-image: url(images/blue_sky.jpg)
+background-size: contain
+### Some Blue Sky Projects in ODA and Higher Ed
+
+--
+#### NLP Model to Detect Incidents of Self-Harm in Survey Responses
+
+--
+#### IoT Experiment for Rapid, Random Surveys via Smart Phone
+
+--
+#### Deep Learning exploration of optimal curricular pathways
+
+--
+#### Recommender Systems for Courses, Instructors, Majors
+
+--
+#### Prescriptive Models for Guiding "Next Likely Action" for students and advisors
+
+--
+#### [Your Great Idea Here]
+---
+class: center, middle, inverse
+background-image: url(images/mirror_1.jpg)
+background-size: contain
+#### Thank you: Marcos, Marie, Jordyn, Poom, Professor Larsen and the MSBA Team for the Invitation
+#### This slide deck was created using R, Rmarkdown and the Xaringan Package
+#### All photos are freely available from Unsplash.com
+#### Errors, Typos, and Oopsies Are Mine. Please let me know if you see something wacky
+#### Code and Slides available at
+#### [bradweiner.info/talk](https://bradweiner.info/talk/)
